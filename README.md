@@ -13,6 +13,7 @@ npm install –g create-react-app
 
 ## How to RUN project?
 cd contacts 
+
 npm install
 
 # RUN server first it will start on port 4000
