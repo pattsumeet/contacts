@@ -1,2 +1,0 @@
-export const LOADED_CONTACTS = 'LOADED_CONTACTS';
-export const LOADED_ADDRESS = 'LOADED_ADDRESS';
