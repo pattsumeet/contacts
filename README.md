@@ -12,7 +12,7 @@ npm install –g create-react-app
 ```
 
 ## How to RUN project?
-cd contacts 
+cd contacts <br>
 
 npm install
 
